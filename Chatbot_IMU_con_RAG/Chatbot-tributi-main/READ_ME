@@ -1,0 +1,155 @@
+Di base per runnarlo bisogna avviare il file streamlit "chatbot_IMU.py". Se si vuole cambiare qualche parametro controllare il file "config.py" nel folder "RAG_system"
+
+----------------------
+PREPARAZIONE AMBIENTE:
+----------------------
+
+    - Inserimento file ".env" nella stessa cartella di "chatbot_IMU.py" con all'interno definita OPENAI_API_KEY
+
+    - Creazione ambiente venv (usare Python 3.12 se possibile):
+        - python -m venv venv
+        - pip install -r requirements.txt
+    N.B.: Per usare unstructured (usato nell'estrazione testo dai pdf) serve installare tesseract e poppler
+
+    - Attivazione ambiente venv:
+        - venv\Scripts\Activate.ps1
+
+    - Disattivazione ambiente venv:
+        - Deactivate
+
+
+COME AVVIARE FILE STREAMLIT (es: chatbot_IMU.py):
+    - controlla di aver attivato il venv, poi:
+    - streamlit run <nome file>
+
+
+---------------------------------
+INSERIMENTO PDF NELLA FONTE DATI:
+---------------------------------
+
+1. ESTRAZIONE PDFs:
+
+    - utilizzando "estrazione_testo.ipynb" si deve estrarre il testo dal pdf e separarlo in chunk con i metadata associati
+        GUIDA PER "estrazione_testo.ipynb":
+            - La funzione completa purtroppo non dà i risultati sperati solitamente, quindi meglio usare i seguenti step e controllare i risultati per ognuno di essi prima di continuare:
+                1. Estrazione testo "grezzo"
+                2. Pulizia del testo (Trasformazione tabelle in linguaggio naturale e pulizia di elementi ripetuti o non utili)
+                3. Divisione in sezioni (Opzioni: Divisione in "Sezione"/"Art."/"Comma", lista personalizzata o dal sommario)
+                4. Divisione in chunk
+            - Dopo ognuno di questi step si salva un checkpoint nella cartella "Extracted".
+
+
+    - ("streamlit_pdf_wizard.py" è un tentativo di rendere il processo interattivo, ma al momento si ferma all'estrazione pulita del testo e salva i risultati in una cartella diversa ("Wizard_extracted") rispetto a "estrazione_testo.ipynb". Nel caso venisse completato bisognerebbe collegarli anche la creazione degli embedding)
+
+2. CREAZIONE EMBEDDINGs:
+
+    - utilizzando "embedding IMU.ipynb" scegliere il file e il modello che si usa per l'embedding nel chatbot e utilizzare "insert_pdf_in_faiss"
+
+--------------------
+SRUTTURA RAG_system
+--------------------
+
+Due tipi di codice diversi:
+    - Il primo (che è quello consigliato) lascia al modello la scelta di ricercare argomenti nella fonte dati.
+    - Il secondo (denominato con "new" solitamente) svolge una sola ricerca RAG utilizzando la query dell'utente, poi il modello deve rispondere senza poter cercare altre informazioni.
+
+FILEs:
+
+- config.py:
+    IMPORTANTE: Serve per scegliere i vari parametri da usare (modelli da usare, se fare log e audit, ...)
+
+- main.py/main_new.py:
+    Carica i parametri scelti e li passa alla pipeline
+
+- resources.py:
+    Serve per caricare in cache elementi ricorrenti (index faiss, metadata, ...)
+
+FOLDERs:
+
+- agent:
+    Contiene la parte in cui si chiama il LLM
+
+- pipeline:
+    flusso principale di elaborazione dei dati e delle query
+    
+- retrieval:
+    Contiene le varie funzioni per recuperare le fonti. In particolare, si ha:
+        - "get_vocabulary" --> choose_vocabulary.py
+        - "retrieve_normativa" --> chunk_reconstruction.py
+        - "retrieve_context" --> tutto il resto
+
+- tools:
+    Contiene definizione ed esecuzione dei vari tools
+
+- utils:
+    Contiene strumenti di supporto o helper che sono indipendenti dalla pipeline principale
+
+---------------
+STRUTTURA FILEs:
+---------------
+
+FOLDERs:
+
+- EXTRACTED: 
+    Contiene i checkpoint dei file estratti (testo grezzo, testo pulito, alberi per divisione, chunk finali)
+
+- funzioni_varie:
+    Contengono le varie funzioni utilizzate per creare la fonte dati, oltre che al recupero delle fonti utilizzate dal LLM.
+
+    - function_embedding.py:
+        Contiene varie funzioni riguardanti l'embedding e il relativo metadata(es.: creazione partendo dal testo diviso in chunk, rimozione documenti dall'embedding,...).
+    - function_extraction.py:
+        Contiene varie funzioni per estratte e suddividere il testo dai pdf, oltre alla creazione di metadata.
+    - function_log.py:
+        Contiene funzioni per visualizzare quali fonti sono state usate dal modello per ogni risposta salvata in log
+    - pdf_wizard.py:
+        Classi e funzioni per rendere interattiva l'estrazione dei pdf
+
+- IMU:
+    Documenti salvati riguardanti l'IMU (non tutti sono stati usati)
+
+- IMU embeddings:
+    Contiene gli embedding e i metadata per ogni embedding model usato, oltre che al vocabolario estratto dal sito del comune.
+
+- Log_chats:
+    Contiene i log dei messaggi (per recuperare il testo delle fonti potrebbe essere necessario usare function_log.py)
+
+- pages:
+    pagine streamlit secondarie associate a chatbot_IMU.py
+
+    - log_viewer.py:
+        Pagina streamlit per poter visualizzare le fonti utilizzate per ciascuna risposta del LLM
+    - prompt_editor.py:
+        Pagina streamlit per visualizzare e modificare il prompt
+
+- Prompts:
+    prompts usati
+
+- RAG_system:
+    framework per il chatbot (spiegato nella sezione apposita)
+
+- Wizard_extracted:
+    Contiene i checkpoint dei file estratti utilizzando streamlit_pdf_wizard.py (non finiti al momento)
+
+FILEs:
+
+- chatbot_IMU.py:
+    file principale da cui avviare l'app per il chatbot. Contiene la pagina principale dell'app ed il collegamento a RAG_system.
+
+- embedding IMU.py:
+    file per generare l'index faiss e i relativi metadata, partendo dai testi divisi in chunks.
+
+- Estrazione_da_log.ipynb:
+    file per poter analizzare le fonti utilizzate per ogni log
+
+- estrazione_testo_normativa_timeline.ipynb:
+    file in cui si sperimenta a creare un embedding per un file normativo considerando i vari cambiamenti durante gli anni e infine combinarlo in un unico file diviso in chunk
+
+- estrazione_testo.ipynb:
+    file per estrarre testo dai pdf e dividerlo in chunk. più dettagli nella sezione "INSERIMENTO PDF NELLA FONTE DATI".
+
+- estrazione_vocabolario.ipynb:
+    file per estrarre dal sito del comune il vocabolario dell'IMU (e successiva pulizia manuale di qualche elemento)
+
+- streamlit_pdf_wizard.py:
+    file per avviare l'app streamlit per l'estrazione interattiva da un pdf (non finito)
