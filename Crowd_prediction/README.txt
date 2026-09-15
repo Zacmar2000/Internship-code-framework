@@ -1,1 +1,0 @@
-Only one file, since it is analogous in the other situation. the way to add the weather forecast was added at the bottom.
