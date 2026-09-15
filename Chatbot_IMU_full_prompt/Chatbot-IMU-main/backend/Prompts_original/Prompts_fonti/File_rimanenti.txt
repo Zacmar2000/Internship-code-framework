@@ -1,0 +1,219 @@
+### Categorie catastali
+
+#### GRUPPO A
+1. A/1 Abitazioni di tipo signorile (Unità immobiliari appartenenti a fabbricati ubicati in zone di pregio con caratteristiche costruttive, tecnologiche e di rifiniture di livello superiore a quello dei fabbricati di tipo residenziale.)
+2. A/2 Abitazioni di tipo civile (Unità immobiliari appartenenti a fabbricati con caratteristiche costruttive, tecnologiche e di rifiniture di livello rispondente alle locali richieste di mercato per fabbricati di tipo residenziale.)
+3. A/3 Abitazioni di tipo economico (Unità immobiliari appartenenti a fabbricati con caratteristiche di economia sia per i materiali impiegati che per la rifinitura, e con impianti tecnologici limitati ai soli indispensabili.)
+4. A/4 Abitazioni di tipo popolare (Unità immobiliari appartenenti a fabbricati con caratteristiche costruttive e di rifiniture di modesto livello. Dotazione limitata di impianti quantunque indispensabili.)
+5. A/5 Abitazioni di tipo ultrapopolare (Unità immobiliari appartenenti a fabbricati con caratteristiche costruttive e di rifiniture di bassissimo livello. Di norma non dotate di servizi igienico-sanitari esclusivi.)
+6. A/6 Abitazioni di tipo rurale
+7. A/7 Abitazioni in villini (Per villino deve intendersi un fabbricato, anche se suddiviso in unità immobiliari, avente caratteristiche costruttive, tecnologiche e di rifiniture proprie di un fabbricato di tipo civile o economico ed essere dotato, per tutte o parte delle unità immobiliari, di aree esterne ad uso esclusivo.)
+8. A/8 Abitazioni in ville (Per ville devono intendersi quegli immobili caratterizzati essenzialmente dalla presenza di parco e/o giardino, edificate in zone urbanistiche destinate a tali costruzioni o in zone di pregio con caratteristiche costruttive e di rifiniture, di livello superiore all'ordinario.)
+9. A/9 Castelli, palazzi di eminenti pregi artistici o storici (Rientrano in questa categoria i castelli ed i palazzi eminenti che per la loro struttura, la ripartizione degli spazi interni e dei volumi edificati non sono comparabili con le Unità tipo delle altre categorie; costituiscono ordinariamente una sola unità immobiliare. E' compatibile con l'attribuzione della categoria A/9 la presenza di altre unità, funzionalmente indipendenti, censibili nelle altre categorie.)
+10. A/10 Uffici e studi privati (Rientrano in questa categoria quelle unità immobiliari che per tipologia, dotazione di impianti e finiture sono destinate all’attività professionale.)
+11. A/11 Abitazioni ed alloggi tipici dei luoghi (Rifugi di montagna, baite, trulli, sassi, ecc…)
+
+#### GRUPPO B
+1. B/1 Collegi e convitti; educandati; ricoveri; orfanotrofi; ospizi; conventi; seminari; caserme 
+2. B/2 Case di cura ed ospedali (senza fine di lucro)
+3. B/3 Prigioni e riformatori
+4. B/4 Uffici pubblici
+5. B/5 Scuole e laboratori scientifici
+6. B/6 Biblioteche, pinacoteche, musei, gallerie, accademie che non hanno sede in edifici della categoria A/9 
+7. B/7 Cappelle ed oratori non destinati all’esercizio pubblico del culto
+8. B/8 Magazzini sotterranei per depositi di derrate
+
+#### GRUPPO c
+1. C/l Negozi e botteghe
+2. C/2 Magazzini e locali di deposito
+3. C/3 Laboratori per arti e mestieri
+4. C/4 Fabbricati e locali per esercizi sportivi (senza fine di lucro)
+5. C/5 Stabilimenti balneari e di acque curative (senza fine di lucro)
+6. C/6 Stalle, scuderie, rimesse e autorimesse (senza fine di lucro)
+7. C/7 Tettoie chiuse o aperte
+
+#### GRUPPO D
+1. D/1 Opifici
+2. D/2 Alberghi e pensioni (con fine di lucro)
+3. D/3 Teatri, cinematografi, sale per concerti e spettacoli e simili (con fine di lucro)
+4. D/4 Case di cura ed ospedali (con fine di lucro)
+5. D/5 Istituti di credito, cambio ed assicurazione (con fine di lucro)
+6. D/6 Fabbricati e locali per esercizi sportivi (con fine di lucro)
+7. D/7 Fabbricati costruiti o adattati per speciali esigenze di una attività industriale e non suscettibili di destinazione diversa senza radicali trasformazioni
+8. D/8 Fabbricati costruiti o adattati per speciali esigenze di una attività commerciale e non suscettibili di destinazione diversa senza radicali trasformazioni
+9. D/9 Edifici galleggianti o sospesi, assicurati a punti fissi al suolo: ponti privati soggetti a pedaggio
+10. D/10 Fabbricati per funzioni produttive connesse alle attività agricole
+
+#### GRUPPO E
+1. E/1 Stazioni per servizi di trasporto terrestri, marittimi ed aerei
+2. E/2 Ponti comunali e provinciali soggetti a pedaggio
+3. E/3 Costruzioni e fabbricati per speciali esigenze pubbliche
+4. E/4 Recinti chiusi per speciali esigenze pubbliche
+5. E/5 Fabbricati costituenti fortificazioni e loro dipendenze
+6. E/6 Fari, semafori, torri per rendere l'uso pubblico l'orologio comunale
+7. E/7 Fabbricati destinati all'uso pubblico dei culti
+8. E/8 Fabbricati e costruzioni nei cimiteri, esclusi i colombari, i sepolcri, e le tombe di famiglia
+9. E/9 Edifici a destinazione particolare non compresi nelle categorie precedenti del gruppo E
+
+#### GRUPPO F
+1. F/1 Area urbana
+2. F/2 Unità collabente
+3. F/3 Unità in corso di costruzione
+4. F/4 Unità in corso di definizione
+5. F/5 Lastrico solare
+6. F/6 Fabbricato in attesa di dichiarazione
+7. F/7 Infrastrutture di reti pubbliche di comunicazione
+
+### Definizione di pertinenze (Codice Civile art. 817-819)
+
+Art. 817.
+(Pertinenze).
+
+Sono pertinenze le cose destinate in modo durevole a servizio o ad ornamento di un'altra cosa.
+La destinazione può essere effettuata dal proprietario della cosa principale o da chi ha un diritto reale
+sulla medesima.
+
+Art. 818.
+(Regime delle pertinenze).
+
+Gli atti e i rapporti giuridici che hanno per oggetto la cosa principale comprendono anche le pertinenze,
+se non è diversamente disposto.
+Le pertinenze possono formare oggetto di separati atti o rapporti giuridici.
+La cessazione della qualità di pertinenza non è opponibile ai terzi i quali abbiano anteriormente
+acquistato diritti sulla cosa principale.
+
+Art. 819.
+(Diritti dei terzi sulle pertinenze).
+
+La destinazione di una cosa al servizio o all'ornamento di un'altra non pregiudica i diritti preesistenti su
+di essa a favore dei terzi.
+Tali diritti non possono essere opposti ai terzi di buona fede se non risultano da scrittura avente data
+certa anteriore, quando la cosa principale è un bene immobile o un bene mobile iscritto in pubblici
+registri.
+
+### Definizione e normative Enti non commerciali
+
+#### lettera i) del comma 1 dell'articolo 7 del decreto legislativo 30 dicembre 1992, n. 504
+i) gli immobili utilizzati dai soggetti di cui all'articolo 73, comma 1, lettera c), del testo unico delle
+imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e
+successive modificazioni, fatta eccezione per gli immobili posseduti da partiti politici, che restano
+comunque assoggettati all'imposta indipendentemente dalla destinazione d'uso dell'immobile,
+destinati esclusivamente allo svolgimento con modalità non commerciali di attività assistenziali,
+previdenziali, sanitarie, di ricerca scientifica, didattiche, ricettive, culturali, ricreative e sportive, nonché
+delle attività di cui all'articolo 16, lettera a), della legge 20 maggio 1985, n. 222.
+
+#### articolo 73, comma 1, lettera c), del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917
+c) gli enti pubblici e privati diversi dalle società, i trust che non hanno per oggetto esclusivo o
+principale l'esercizio di attività commerciale nonché gli organismi di investimento collettivo del
+risparmio, residenti nel territorio dello Stato;
+
+#### articolo 16, lettera a), della legge 20 maggio 1985, n. 222
+Agli effetti delle leggi civili si considerano comunque:
+a) attività di religione o di culto quelle dirette all'esercizio del culto e alla cura delle anime, alla
+formazione del clero e dei religiosi, a scopi missionari, alla catechesi, all'educazione cristiana;
+
+#### Decreto del Ministro dell'Economia e delle Finanze numero 200 del 19/11/2012
+
+##### Articolo 3 - Requisiti generali per lo svolgimento con modalita' non commerciali delle attivita' istituzionali
+1. Le attivita' istituzionali sono svolte con modalita' non commerciali quando l'atto costitutivo o lo statuto dell'ente non commerciale prevedono:
+    - il divieto di distribuire, anche in modo indiretto, utili e avanzi di gestione nonche' fondi, riserve o capitale durante la vita dell'ente, in favore di amministratori, soci, partecipanti, lavoratori o collaboratori, a meno che la destinazione o la distribuzione non siano imposte per legge, ovvero siano effettuate a favore di enti che per legge, statuto o regolamento, fanno parte della medesima e unitaria struttura e svolgono la stessa attivita' ovvero altre attivita' istituzionali direttamente e specificamente previste dalla normativa vigente;
+    - l'obbligo di reinvestire gli eventuali utili e avanzi di gestione esclusivamente per lo sviluppo delle attivita' funzionali al perseguimento dello scopo istituzionale di solidarieta' sociale;
+    - l'obbligo di devolvere il patrimonio dell'ente non commerciale in caso di suo scioglimento per qualunque causa, ad altro ente non commerciale che svolga un'analoga attivita' istituzionale, salvo diversa destinazione imposta dalla legge.
+
+##### Articolo 4 - Ulteriori requisiti
+1. Fatti salvi i requisiti enunciati all'articolo 3, le attivita' istituzionali di seguito indicate si intendono svolte con modalita' non commerciali solo ove, in relazione alla loro natura, presentino gli ulteriori requisiti di cui ai commi seguenti.
+2. Lo svolgimento di attivita' assistenziali e attivita' sanitarie si ritiene effettuato con modalita' non commerciali quando le stesse:
+    - sono accreditate e contrattualizzate o convenzionate con lo Stato, le Regioni e gli enti locali e sono svolte, in ciascun ambito territoriale e secondo la normativa ivi vigente, in maniera complementare o integrativa rispetto al servizio pubblico, e prestano a favore dell'utenza, alle condizioni previste dal diritto dell'Unione europea e nazionale, servizi sanitari e assistenziali gratuiti, salvo eventuali importi di partecipazione alla spesa previsti dall'ordinamento per la copertura del servizio universale;
+    - se non accreditate e contrattualizzate o convenzionate con lo Stato, le Regioni e gli enti locali, sono svolte a titolo gratuito ovvero dietro versamento di corrispettivi di importo simbolico e, comunque, non superiore alla meta' dei corrispettivi medi previsti per analoghe attivita' svolte con modalita' concorrenziali nello stesso ambito territoriale, tenuto anche conto dell'assenza di relazione con il costo effettivo del servizio.
+3. Lo svolgimento di attivita' didattiche si ritiene effettuato con modalita' non commerciali se:
+    - l'attivita' e' paritaria rispetto a quella statale e la scuola adotta un regolamento che garantisce la non discriminazione in fase di accettazione degli alunni;
+    - sono comunque osservati gli obblighi di accoglienza di alunni portatori di handicap, di applicazione della contrattazione collettiva al personale docente e non docente, di adeguatezza delle strutture agli standard previsti, di pubblicita' del bilancio;
+    - l'attivita' e' svolta a titolo gratuito, ovvero dietro versamento di corrispettivi di importo simbolico e tali da coprire solamente una frazione del costo effettivo del servizio, tenuto anche conto dell'assenza di relazione con lo stesso.
+4. Lo svolgimento di attivita' ricettive si ritiene effettuato con modalita' non commerciali se le stesse sono svolte a titolo gratuito ovvero dietro versamento di corrispettivi di importo simbolico e, comunque, non superiore alla meta' dei corrispettivi medi previsti per analoghe attivita' svolte con modalita' concorrenziali nello stesso ambito territoriale, tenuto anche conto dell'assenza di relazione con il costo effettivo del servizio.
+5. Lo svolgimento di attivita' culturali e attivita' ricreative si ritiene effettuato con modalita' non commerciali se le stesse sono svolte a titolo gratuito, ovvero dietro versamento di un corrispettivo simbolico e, comunque, non superiore alla meta' dei corrispettivi medi previsti per analoghe attivita' svolte con modalita' concorrenziali nello stesso ambito territoriale, tenuto anche conto dell'assenza di relazione con il costo effettivo del servizio.
+6. Lo svolgimento di attivita' sportive si ritiene effettuato con modalita' non commerciali se le medesime attivita' sono svolte a titolo gratuito, ovvero dietro versamento di un corrispettivo simbolico e, comunque, non superiore alla meta' dei corrispettivi medi previsti per analoghe attivita' svolte con modalita' concorrenziali nello stesso ambito territoriale, tenuto anche conto dell'assenza di relazione con il costo effettivo del servizio.
+
+##### Articolo 5 - Individuazione del rapporto proporzionale
+1. Il rapporto proporzionale di cui al comma 3 dell'articolo 91-bis del citato decreto-legge n. 1 del 2012, e' determinato con riferimento allo spazio, al numero dei soggetti nei confronti dei quali vengono svolte le attivita' con modalita' commerciali ovvero non commerciali e al tempo, secondo quanto indicato nei commi seguenti.
+2. Per le unita' immobiliari destinate ad una utilizzazione mista, la proporzione di cui al comma 1 e' prioritariamente determinata in base alla superficie destinata allo svolgimento delle attivita' diverse da quelle previste dall'articolo 7, comma 1, lettera i), del decreto legislativo n. 504 del 1992, e delle attivita' di cui alla citata lettera i), svolte con modalita' commerciali, rapportata alla superficie totale dell'immobile.
+3. Per le unita' immobiliari che sono indistintamente oggetto di un'utilizzazione mista, la proporzione di cui al comma 1 e' determinata in base al numero dei soggetti nei confronti dei quali le attivita' sono svolte con modalita' commerciali, rapportato al numero complessivo dei soggetti nei confronti dei quali e' svolta l'attivita'.
+4. Nel caso in cui l'utilizzazione mista, anche nelle ipotesi disciplinate ai commi 2 e 3, e' effettuata limitatamente a specifici periodi dell'anno, la proporzione di cui al comma 1 e' determinata in base ai giorni durante i quali l'immobile e' utilizzato per lo svolgimento delle attivita' diverse da quelle previste dall'articolo 7, comma 1, lettera i), del decreto legislativo n. 504 del 1992, ovvero delle attivita' di cui alla citata lettera i) svolte con modalita' commerciali.
+5. Le percentuali determinate in base ai rapporti che risultano dall'applicazione delle disposizioni di cui ai commi precedenti, indicate per ciascun immobile nella dichiarazione di cui al successivo articolo 6, si applicano alla rendita catastale dell'immobile in modo da ottenere la base imponibile da utilizzare ai fini della determinazione dell'IMU dovuta.
+
+#### articolo 4 del Decreto Ministeriale del 04/05/2023
+
+##### Presentazione della dichiarazione
+1. La dichiarazione telematica deve essere presentata al comune sul cui territorio insistono gli
+immobili dichiarati. Se l’immobile insiste su territori di comuni diversi, la dichiarazione IMU ENC
+deve essere presentata al comune sul cui territorio insiste prevalentemente la superficie
+dell’immobile stesso. In caso di variazioni delle circoscrizioni territoriali dei comuni, la
+dichiarazione deve essere presentata al comune nell'ambito del cui territorio risultano ubicati gli
+immobili al 1° gennaio dell'anno cui l'imposta si riferisce.
+
+
+### Sanzioni
+
+#### art. 14 del D.Lgs. 30.12.1992, n. 504
+1. Per l'omessa presentazione della dichiarazione o denuncia si applica la sanzione amministrativa dal
+cento al duecento per cento del tributo dovuto, con un minimo di lire centomila.
+2. Se la dichiarazione o la denuncia sono infedeli si applica la sanzione amministrativa dal cinquanta al
+cento per cento della maggiore imposta dovuta.
+3. Se l'omissione o l'errore attengono ad elementi non incidenti sull'ammontare dell'imposta, si
+applica la sanzione amministrativa da lire centomila a lire cinquecentomila. La stessa sanzione si
+applica per le violazioni concernenti la mancata esibizione o trasmissione di atti e documenti, ovvero
+per la mancata restituzione di questionari nei sessanta giorni dalla richiesta o per la loro mancata
+compilazione o compilazione incompleta o infedele.
+4. Le sanzioni indicate nei commi 1 e 2 sono ridotte alla misura stabilita dagli articoli 16 e 17 del
+decreto legislativo 18 dicembre 1997, n. 472 se, entro il temine per ricorrere alle commissioni
+tributarie, interviene adesione del contribuente con il pagamento del tributo, se dovuto e della
+sanzione.
+5. La contestazione della violazione non collegata all'ammontare del tributo deve avvenire, a pena di
+decadenza, entro il 31 dicembre del quinto anno successivo a quello in cui è commessa la violazione.
+
+#### art. 13 del D.Lgs. 18.12.1997, n. 471
+1. Chi non esegue, in tutto o in parte, alle prescritte scadenze, i versamenti in acconto, i versamenti
+periodici, il versamento di conguaglio o a saldo dell'imposta risultante dalla dichiarazione, detratto in
+questi casi l'ammontare dei versamenti periodici e in acconto, ancorché non effettuati, è soggetto a
+sanzione amministrativa ((pari al venticinque)) per cento di ogni importo non versato, anche quando,
+in seguito alla correzione di errori materiali o di calcolo rilevati in sede di controllo della dichiarazione
+annuale, risulti una maggiore imposta o una minore eccedenza detraibile. Per i versamenti effettuati
+con un ritardo non superiore a novanta giorni, la sanzione di cui al primo periodo è ridotta alla metà.
+Salva l'applicazione dell'articolo 13 del decreto legislativo 18 dicembre 1997, n. 472, per i versamenti
+effettuati con un ritardo non superiore a quindici giorni, la sanzione di cui al secondo periodo è
+ulteriormente ridotta a un importo pari a un quindicesimo per ciascun giorno di ritardo.
+2. La sanzione di cui al comma 1 si applica nei casi di liquidazione della maggior imposta ai sensi degli
+articoli 36-bis e 36-ter del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e ai
+sensi dell'articolo 54-bis del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633.
+3. Fuori dei casi di tributi iscritti a ruolo, la sanzione prevista al comma 1 si applica altresì in ogni
+ipotesi di mancato pagamento di un tributo o di una sua frazione nel termine previsto.
+4. Salvo quanto previsto dal comma 4-ter, si considerano inesistenti ovvero non spettanti i
+crediti rispettivamente previsti dall'articolo 1, comma 1, lettere g-quater) e g-quinquies) del
+decreto legislativo 10 marzo 2000, n. 74.
+4-bis. Nel caso di utilizzo di un credito non spettante ai sensi dell'articolo 1, comma 1, lettera gquinquies),
+del decreto legislativo 10 marzo 2000, n. 74, si applica, salvo diverse disposizioni
+speciali, la sanzione pari al venticinque per cento del credito utilizzato in compensazione. La
+sanzione di cui al primo periodo si applica anche quando il credito è utilizzato in difetto dei
+prescritti adempimenti amministrativi non previsti a pena di decadenza e le relative violazioni non
+sono state rimosse, entro i termini stabiliti dal comma 4-ter.
+4-ter. Si applica la sanzione di duecentocinquanta euro quando il credito è utilizzato in
+compensazione in difetto dei prescritti adempimenti amministrativi di carattere strumentale,
+sempre che siano rispettante entrambe le seguenti condizioni:
+    a) gli adempimenti non siano previsti a pena di decadenza;
+    b) la violazione sia rimossa entro il termine di presentazione della dichiarazione annuale ai fini
+    delle imposte sui redditi relativa all'anno di commissione della violazione, ovvero, in assenza di
+    una dichiarazione, entro un anno dalla commissione della violazione medesima.
+5. Nel caso di utilizzo di un credito inesistente ai sensi dell'articolo 1, comma 1, lettera gquater),
+numero 1), del decreto legislativo 10 marzo 2000, n. 74, si applica la sanzione pari al
+settanta per cento del credito utilizzato in compensazione.
+5-bis. Nel caso di utilizzo di un credito inesistente ai sensi dell'articolo 1, comma 1, lettera gquater),
+numero 2), del decreto legislativo 10 marzo 2000, n. 74, la sanzione di cui al comma 5 è
+aumentata dalla metà al doppio.
+6. Fuori dall'ipotesi di cui all'articolo 11, comma 7-bis, sull'ammontare delle eccedenze di credito
+risultanti dalla dichiarazione annuale dell'ente o società controllante ovvero delle società controllate,
+compensate in tutto o in parte con somme che avrebbero dovuto essere versate dalle altre società
+controllate o dall'ente o società controllante, di cui all'articolo 73, terzo comma, del decreto del
+Presidente della Repubblica 26 ottobre 1972, n. 633, si applica la sanzione di cui al comma 1 quando
+la garanzia di cui all'articolo 38-bis del medesimo decreto è presentata oltre il termine di novanta
+giorni dalla scadenza del termine di presentazione della dichiarazione annuale.
+7. Le sanzioni previste nel presente articolo non si applicano quando i versamenti sono stati
+tempestivamente eseguiti ad ufficio o concessionario diverso da quello competente.

@@ -1,0 +1,12 @@
+ Innanzi tutto creare in backend, .env con OPENAI_API_KEY e .venv (- python -m venv venv e - pip install -r requirements.txt)
+ npm install per scaricare i pacchetti necessari pr il frontend
+ 
+ cd backend 
+ .venv\Scripts\Activate
+ uvicorn App:app --reload
+
+
+
+
+ cd frontend
+ npm run dev  (or npm.cmd)
